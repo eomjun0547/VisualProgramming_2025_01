@@ -1,0 +1,14 @@
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\024_Clasee\bin\Debug\net8.0\024_Class.exe
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\024_Clasee\bin\Debug\net8.0\024_Class.deps.json
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\024_Clasee\bin\Debug\net8.0\024_Class.runtimeconfig.json
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\024_Clasee\bin\Debug\net8.0\024_Class.dll
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\024_Clasee\bin\Debug\net8.0\024_Class.pdb
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\024_Clasee\obj\Debug\net8.0\024_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\024_Clasee\obj\Debug\net8.0\024_Class.AssemblyInfoInputs.cache
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\024_Clasee\obj\Debug\net8.0\024_Class.AssemblyInfo.cs
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\024_Clasee\obj\Debug\net8.0\024_Class.csproj.CoreCompileInputs.cache
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\024_Clasee\obj\Debug\net8.0\024_Class.dll
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\024_Clasee\obj\Debug\net8.0\refint\024_Class.dll
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\024_Clasee\obj\Debug\net8.0\024_Class.pdb
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\024_Clasee\obj\Debug\net8.0\024_Class.genruntimeconfig.cache
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\024_Clasee\obj\Debug\net8.0\ref\024_Class.dll
