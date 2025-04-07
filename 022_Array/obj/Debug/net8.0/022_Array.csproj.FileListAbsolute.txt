@@ -1,0 +1,14 @@
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\022_Array\bin\Debug\net8.0\022_Array.exe
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\022_Array\bin\Debug\net8.0\022_Array.deps.json
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\022_Array\bin\Debug\net8.0\022_Array.runtimeconfig.json
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\022_Array\bin\Debug\net8.0\022_Array.dll
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\022_Array\bin\Debug\net8.0\022_Array.pdb
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\022_Array\obj\Debug\net8.0\022_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\022_Array\obj\Debug\net8.0\022_Array.AssemblyInfoInputs.cache
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\022_Array\obj\Debug\net8.0\022_Array.AssemblyInfo.cs
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\022_Array\obj\Debug\net8.0\022_Array.csproj.CoreCompileInputs.cache
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\022_Array\obj\Debug\net8.0\022_Array.dll
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\022_Array\obj\Debug\net8.0\refint\022_Array.dll
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\022_Array\obj\Debug\net8.0\022_Array.pdb
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\022_Array\obj\Debug\net8.0\022_Array.genruntimeconfig.cache
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\022_Array\obj\Debug\net8.0\ref\022_Array.dll
