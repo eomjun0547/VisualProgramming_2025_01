@@ -1,0 +1,10 @@
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\021_DClock\bin\Debug\021_DClock.exe.config
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\021_DClock\bin\Debug\021_DClock.exe
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\021_DClock\bin\Debug\021_DClock.pdb
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\021_DClock\obj\Debug\021_DClock.csproj.AssemblyReference.cache
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\021_DClock\obj\Debug\_021_DClock.Form1.resources
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\021_DClock\obj\Debug\_021_DClock.Properties.Resources.resources
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\021_DClock\obj\Debug\021_DClock.csproj.GenerateResource.cache
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\021_DClock\obj\Debug\021_DClock.csproj.CoreCompileInputs.cache
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\021_DClock\obj\Debug\021_DClock.exe
+C:\Users\konyang\source\repos\Visual_Programming_2025_1\021_DClock\obj\Debug\021_DClock.pdb
